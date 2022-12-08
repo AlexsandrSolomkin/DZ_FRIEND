@@ -1,0 +1,15 @@
+G:\________Учеба_________\С#\Test_1\obj\Debug\net6.0\Test_1.csproj.AssemblyReference.cache
+G:\________Учеба_________\С#\Test_1\obj\Debug\net6.0\Test_1.GeneratedMSBuildEditorConfig.editorconfig
+G:\________Учеба_________\С#\Test_1\obj\Debug\net6.0\Test_1.AssemblyInfoInputs.cache
+G:\________Учеба_________\С#\Test_1\obj\Debug\net6.0\Test_1.AssemblyInfo.cs
+G:\________Учеба_________\С#\Test_1\obj\Debug\net6.0\Test_1.csproj.CoreCompileInputs.cache
+G:\________Учеба_________\С#\Test_1\bin\Debug\net6.0\Test_1.exe
+G:\________Учеба_________\С#\Test_1\bin\Debug\net6.0\Test_1.deps.json
+G:\________Учеба_________\С#\Test_1\bin\Debug\net6.0\Test_1.runtimeconfig.json
+G:\________Учеба_________\С#\Test_1\bin\Debug\net6.0\Test_1.dll
+G:\________Учеба_________\С#\Test_1\bin\Debug\net6.0\Test_1.pdb
+G:\________Учеба_________\С#\Test_1\obj\Debug\net6.0\Test_1.dll
+G:\________Учеба_________\С#\Test_1\obj\Debug\net6.0\refint\Test_1.dll
+G:\________Учеба_________\С#\Test_1\obj\Debug\net6.0\Test_1.pdb
+G:\________Учеба_________\С#\Test_1\obj\Debug\net6.0\Test_1.genruntimeconfig.cache
+G:\________Учеба_________\С#\Test_1\obj\Debug\net6.0\ref\Test_1.dll
